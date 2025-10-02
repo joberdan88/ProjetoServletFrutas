@@ -7,12 +7,21 @@ Funcionalidades:
 - Servlet que processa os dados
 - Página JSP que exibe os resultados
 
- 2. AplicacaoNomes
+2. AplicacaoNomes
 Aplicação simples que recebe o nome do usuário via formulário e exibe uma saudação personalizada.
 Funcionalidades:
 - Formulário HTML com campo de texto
 - Servlet que processa o nome e retorna uma mensagem
 - Mapeamento via web.xml e/ou anotação @WebServlet
+
+3. CalculadoraJSP
+Aplicação web que simula uma calculadora simples usando JSP e Servlet. O usuário pode clicar em números e operações, e o resultado é exibido dinamicamente.
+
+**Funcionalidades:**
+- Botões numéricos e operadores
+- Processamento via Servlet (`CalcSer.java`)
+- Visor atualizado com parâmetros via `request` e `session`
+
 
  Como executar
 - Clone o repositório:
