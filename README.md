@@ -20,7 +20,17 @@ Aplicação web que simula uma calculadora simples usando JSP e Servlet. O usuá
 **Funcionalidades:**
 - Botões numéricos e operadores
 - Processamento via Servlet (`CalcSer.java`)
-- Visor atualizado com parâmetros via `request` e `session`
+- Visor atualizado com parâmetros via `request` e `session`]
+
+4. UsuarioBeanJSP
+
+Aplicação web que demonstra o uso de JavaBeans com JSP. O usuário informa seu nome, que é encapsulado em um Bean e exibido em uma página de resposta.
+
+**Funcionalidades:**
+- Formulário com campo de nome
+- Bean `UsuarioBean` com getter/setter
+- Uso de `<jsp:useBean>`, `<jsp:setProperty>` e `<jsp:getProperty>`
+
 
 
  Como executar
