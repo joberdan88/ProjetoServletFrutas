@@ -7,8 +7,13 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
+<<<<<<< HEAD
 <project name="JSFPersistencia" default="default" basedir=".">
     <description>Builds, tests, and runs the project JSFPersistencia.</description>
+=======
+<project name="ConversorTemperatura" default="default" basedir=".">
+    <description>Builds, tests, and runs the project ConversorTemperatura.</description>
+>>>>>>> 12714527742e8bde23fb35aede4149ad4732d4de
     <import file="nbproject/build-impl.xml"/>
     <!--
 

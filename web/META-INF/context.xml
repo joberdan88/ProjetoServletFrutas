@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <Context path="/JSFPersistencia"/>
+=======
+<Context path="/ConversorTemperatura"/>
+>>>>>>> 12714527742e8bde23fb35aede4149ad4732d4de
