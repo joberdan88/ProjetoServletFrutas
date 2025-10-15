@@ -1,6 +1,6 @@
 # ProjetoServletFullStack
 
-Este repositório reúne todos os projetos desenvolvidos por **Jonas Berdan** durante a disciplina de Java, com foco em aplicações web utilizando **Servlets**, **JSP**, **JSF**, **JPA** e **Hibernate**. Cada módulo representa um avanço na jornada de aprendizado, desde os primeiros formulários até a integração completa com banco de dados.
+Este repositório reúne vários projetos desenvolvidos por mim (**Jonas Oberdan**) com Java, com foco em aplicações web utilizando **Servlets**, **JSP**, **JSF**, **JPA** e **Hibernate**. Tem integração completa com banco de dados.
 
 ---
 
