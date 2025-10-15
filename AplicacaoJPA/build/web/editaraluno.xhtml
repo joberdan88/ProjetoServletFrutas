@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html">
+<h:head>
+    <title>Editar Aluno</title>
+</h:head>
+<h:body>
+    <h:form>
+        <h:outputLabel value="ID do Aluno:" />
+        <h:inputText value="#{alunoBean.id}" readonly="true" />
+
+        <h:outputLabel value="Novo Nome:" />
+        <h:inputText value="#{alunoBean.nome}" />
+
+        <h:commandButton value="Atualizar" action="#{alunoBean.atualizarAluno}" />
+        <h:commandButton value="Ver Lista de Alunos" action="listaalunos.xhtml?faces-redirect=true" />
+    </h:form>
+</h:body>
+</html>
