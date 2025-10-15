@@ -92,5 +92,5 @@ Primeiro projeto com Servlet
 - Crie o banco aplicacaojpa
 - Atualize o persistence.xml com suas credenciais
 4. Execute os projetos em um servidor compatível (GlassFish, Tomcat)
-  ```
+  
   
